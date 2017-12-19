@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ru.ilb.doxiautils</groupId>
     <artifactId>doxiautils</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <scm>
-        <connection>scm:svn:https://svn.ilb.ru/repos/doxiautils/tags/doxiautils-1.0</connection>
-        <url>https://svn.ilb.ru/viewvc/doxiautils/tags/doxiautils-1.0</url>
+        <connection>scm:svn:https://svn.ilb.ru/repos/doxiautils/trunk/doxiautils</connection>
+        <url>https://svn.ilb.ru/viewvc/doxiautils/trunk/doxiautils</url>
     </scm>
     
     <properties>
