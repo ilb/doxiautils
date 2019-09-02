@@ -9,7 +9,7 @@
         <connection>scm:svn:https://svn.ilb.ru/repos/doxiautils/trunk/doxiautils</connection>
         <url>https://svn.ilb.ru/viewvc/doxiautils/trunk/doxiautils</url>
     </scm>
-    
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -47,6 +47,6 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>    
-    
+    </build>
+
 </project>
